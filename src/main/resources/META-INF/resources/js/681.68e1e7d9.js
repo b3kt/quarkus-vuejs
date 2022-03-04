@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkalinea_ui"]=self["webpackChunkalinea_ui"]||[]).push([[681],{681:(n,e,a)=>{a.r(e),a.d(e,{default:()=>d});var u=a(3673);function s(n,e,a,s,t,c){const r=(0,u.up)("q-page");return(0,u.wg)(),(0,u.j4)(r,{padding:""})}const t={};var c=a(4260),r=a(4379),i=a(7518),p=a.n(i);const o=(0,c.Z)(t,[["render",s]]),d=o;p()(t,"components",{QPage:r.Z})}}]);
